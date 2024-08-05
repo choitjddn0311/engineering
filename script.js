@@ -12,6 +12,9 @@ function showContent(section) {
         case 'bud':
             html = '<h2><span>버디</span>와 함께</h2><p>저희와 함께 했던 저희의 버디들입니다.<br>짧은 시간동안 Yeronga State High School에서 만난 친구들과 함께 즐거운 학교생활을 했습니다.</p><img src="images/공학단체/KakaoTalk_20240802_235628296_01.jpg" alt=""><img src="images/버디/IMG_20240726_123735_689.jpg" alt=""><img src="images/버디/KakaoTalk_20240802_235542172.jpg" alt="">';
             break;
+        case 'activity':
+            html = '<h2>저희가 한 <span>활동들</span></h2><p>저희가 호주에서 한 활동들입니다</p>';
+            break;
         case 'space':
             html = '<h2>저희가 <span>방문한 장소</span></h2><p>저희가 호주에서 방문한 장소들입니다.<br>city, Yeronga school, movie world 등 도시, 놀이공원, 학교를 다녀오면서 호주의 문화생활을 즐겼습니다</p><img src="images/방문2/20240720_100931.jpg" alt=""><img src="images/방문2/KakaoTalk_20240803_000406773_02.jpg" alt=""><img src="images/방문한 곳/20240721_161759.jpg" alt="">';
             break;

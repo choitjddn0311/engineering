@@ -25,6 +25,9 @@ header h1 {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); 
     transition: .3s;
 }
+header p {
+    color: #2167b8;
+}
 nav {
     display: flex;
     justify-content: center;
