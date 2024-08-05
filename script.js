@@ -7,7 +7,7 @@ function showContent(section) {
             html = '<h2>안녕하세요 저희는 <span>공학팀</span> 입니다</h2><p>저희가 보낸 호주에서의 생활, 함께 해보실래요?</p><h3>We will never <br> forget this expe<span>rience</span></h3><img src="images/공학단체/3E549342-6072-4122-A39E-4CC1DE4CAF4B.jpeg" alt=""><img src="images/공학단체/KakaoTalk_20240802_235628296_02.jpg" alt=""><video src="images/공학단체/KakaoTalk_20240802_234942354.mp4" autoplay loop></video>';
             break;
         case 'ausway':
-            html = '<h2><span>호주</span>의 풍경</h2><p>저희가 눈에 담았던 호주의 아름다운 풍경입니다.<br>도시가 한눈에 보이는 전망대, 브리즈번 강, New Farm Park 등 다양한 장소를 방문하면서 호주의 풍경을 보았습니다</p>`1<img src="images/풍경/20240720_092434.jpg" alt=""><img src="images/풍경/20240720_160532.jpg" alt=""><img src="images/풍경/20240720_164551.jpg" alt="">';
+            html = '<h2><span>호주</span>의 풍경</h2><p>저희가 눈에 담았던 호주의 아름다운 풍경입니다.<br>도시가 한눈에 보이는 전망대, 브리즈번 강, New Farm Park 등 다양한 장소를 방문하면서 호주의 풍경을 보았습니다</p><img src="images/풍경/20240720_092434.jpg" alt=""><img src="images/풍경/20240720_160532.jpg" alt=""><img src="images/풍경/20240720_164551.jpg" alt=""><img src="images/방문2/KakaoTalk_20240805_160934148_01.jpg" alt=""><img src="images/방문2/KakaoTalk_20240805_160934148_02.jpg" alt="">';
             break;
         case 'bud':
             html = '<h2><span>버디</span>와 함께</h2><p>저희와 함께 했던 저희의 버디들입니다.<br>짧은 시간동안 Yeronga State High School에서 만난 친구들과 함께 즐거운 학교생활을 했습니다.</p><img src="images/공학단체/KakaoTalk_20240802_235628296_01.jpg" alt=""><img src="images/버디/IMG_20240726_123735_689.jpg" alt=""><img src="images/버디/KakaoTalk_20240802_235542172.jpg" alt="">';
